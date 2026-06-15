@@ -34,9 +34,9 @@
 | **Mobile Security Research** | Kali NetHunter | Penetration testing, WiFi auditing, and analyzing mobile vulnerabilities. | [Repo](#) |
 
 ---
-
-### 📈 GitHub Stats
 <!--
+### 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anomys-maddy&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak Stats" />
 </p>
