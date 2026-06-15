@@ -7,7 +7,7 @@
 
 - 🌱 **New to GitHub**, but I've been building and breaking things in the command line for years.
 - 🏫 **Pursuing B.tech in mathematics and computing**.
-- 🐧 **Linux Veteran:** Daily driving Linux for over 5 years.Daily driving Linux for over 5 years. Proficient in Bash scripting, system administration, and optimizing command-line environments for automation workflows. && Highly comfortable with Debian-based systems, secure system administration, and leveraging terminal tools for network analysis.
+- 🐧 **Linux Veteran:** Daily driving Linux for over 5 years. Proficient in Bash scripting, system administration, and optimizing command-line environments for automation workflows. && Highly comfortable with Debian-based systems, secure system administration, and leveraging terminal tools for network analysis.
 - 📱 **Android & Security:** Experienced in building Custom ROMs (specifically for *laurel_sprout*) and conducting mobile security research using **Kali NetHunter**.
 - 📈 **Algorithmic Trading:** Designing, backtesting, and deploying custom crypto market strategies using **Pine Script**.
 - 🚀 **Current Focus:** Python automation, MySQL database integration, **Data Science & Analytics** (aiming for the **FinTech** industry), and advancing my knowledge in Trading,Network defense and malware analysis.
@@ -36,12 +36,17 @@
 ---
 
 ### 📈 GitHub Stats
-
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anomys-maddy&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak Stats" />
 </p>
-
+-->
 ---
+
+### ⚡ THE MINDSET
+- 🤫 **Stay silent, stay private, stay anonymous.** 
+- 🛠️ **Just work.** Head down, terminal open.
+- 🚀 **Hustle and hustle.**
 
 <p align="center">
   💬 Open to discussions on <b>Cybersecurity, FinTech, Data Science, or Trading Algorithms</b>.
